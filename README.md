@@ -1,14 +1,19 @@
-![LOGO](../todo-list/assets/Logo.png)
+
+<center>
+
+![LOGO](./assets/Logo.png)
 
 ---
 
-![TODO](../todo-list/assets/readme.png)
+![TODO](./assets/readme.png)
 
 ---
+
+</center>
 
 ## Sobre
 
-> Esta é uma aplicação simples de Todo List que permite ao usuário adicionar tarefas a uma lista e gerenciá-las facilmente. Com esta aplicação, o usuário pode adicionar, excluir e marcar tarefas como concluídas ou não concluídas.
+> Esta é uma aplicação simples desenvolvido em React-native de Todo List que permite ao usuário adicionar tarefas a uma lista e gerenciá-las facilmente. Com esta aplicação, o usuário pode adicionar, excluir e marcar tarefas como concluídas ou não concluídas.
 >
 
 ---
