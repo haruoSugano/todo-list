@@ -1,12 +1,8 @@
-<div align="center">
-    <img title="app-todo" src="../todo-list/assets/Logo.png"/>
-</div>
+![LOGO](../todo-list/assets/Logo.png)
 
 ---
 
-<div align="center">
-    <img title="app-todo" src="../todo-list/assets/readme.png"/>
-</div>
+![TODO](../todo-list/assets/readme.png)
 
 ---
 
